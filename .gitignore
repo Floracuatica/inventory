@@ -1,0 +1,21 @@
+# Node modules (aunque no usamos mucho, por si agregas dependencias)
+node_modules/
+
+# Archivos de entorno (si luego usas .env para puertos, secretos, etc)
+.env
+
+# Archivos del sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editores
+*.log
+*.tmp
+*.swp
+
+# Salidas del sistema operativo o IDEs
+.vscode/
+.idea/
+
+# Backup de VS Code o editores
+*.code-workspace
